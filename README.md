@@ -62,7 +62,7 @@ Universidade Tecnológica Federal do Paraná (UTFPR)
 2020 – 2026  
 
 Disciplinas relevantes:  
-Estruturas de Dados • Banco de Dados • Mineração de Dados • Inteligência Computacional • Probabilidade e Estatística
+Estruturas de Dados • Banco de Dados • Mineração de Dados • Ciência de Dados • Probabilidade e Estatística • Programação Orientada a Objetos
 
 ---
 
